@@ -2,6 +2,10 @@
 
 The Data Science training at [EBAC - British School of Creative Arts & Technology](https://ebaconline.com.br/cientista-de-dados) contains 3 courses lasting more than 40 hours. The training has practice and mentoring with many activities throughout the course and feedback with tutors and 7 projects to include in the portfolio, putting the acquired knowledge into practice.
 
+
+![Logo](https://www.compasslexecon.com/wp-content/uploads/2022/12/Data-Science-Image.jpg)
+
+
 ## Course Contents
 
 ### Python for Data Analysis
